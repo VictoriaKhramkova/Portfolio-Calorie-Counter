@@ -1,2 +1,2 @@
-# Portfolio-Calorie-Counter
+# Portfolio-Calories-Counter
 ## В процессе разработки
